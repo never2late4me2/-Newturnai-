@@ -1,0 +1,4 @@
+  File "<string>", line 9
+    print(f'App title: {app.title if hasattr(app, title) else Not
+          ^
+SyntaxError: unterminated string literal (detected at line 9)

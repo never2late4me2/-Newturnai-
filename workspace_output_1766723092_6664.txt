@@ -1,0 +1,4 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    70  100    32  100    38   1845   2191 --:--:-- --:--:-- --:--:--  4117
+{"detail":"Invalid credentials"}

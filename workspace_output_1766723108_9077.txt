@@ -1,0 +1,10 @@
+INFO:     Finished server process [933]
+INFO:     Started server process [959]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:turnai:POST http://localhost:8000/token
+Login attempt for: John Cleaner
+User found, password verification failed
+Stored hash: ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
+INFO:turnai:Status 401
+INFO:     127.0.0.1:44544 - "POST /token HTTP/1.1" 401 Unauthorized

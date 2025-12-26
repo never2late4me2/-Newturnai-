@@ -1,0 +1,19 @@
+FastAPI Application Details:
+App type: <class 'fastapi.applications.FastAPI'>
+Available Routes:
+   ['GET', 'HEAD'] /openapi.json
+   ['GET', 'HEAD'] /docs
+   ['GET', 'HEAD'] /docs/oauth2-redirect
+   ['GET', 'HEAD'] /redoc
+   ['GET'] /health
+   ['GET'] /support
+   ['POST'] /token
+   ['POST'] /cleaners/register
+   ['POST'] /jobs/create
+Database Models:
+Cleaner model: Cleaner
+Job model: Job
+Configuration:
+Database URL configured: True
+SECRET_KEY configured: True
+Stripe API key configured: False
